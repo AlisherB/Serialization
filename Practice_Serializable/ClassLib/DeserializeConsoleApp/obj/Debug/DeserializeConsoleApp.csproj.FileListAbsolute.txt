@@ -1,0 +1,17 @@
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\DeserializeConsoleApp.exe.config
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\DeserializeConsoleApp.exe
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\DeserializeConsoleApp.pdb
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\ClassLib.dll
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\ClassLib.pdb
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.csprojResolveAssemblyReference.cache
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.exe
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\DeserializeConsoleApp.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\DeserializeConsoleApp.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\DeserializeConsoleApp.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\ClassLib.dll
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\bin\Debug\ClassLib.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.pdb

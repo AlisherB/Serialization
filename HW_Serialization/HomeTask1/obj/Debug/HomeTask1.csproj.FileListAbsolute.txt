@@ -1,0 +1,7 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\HW_Serialization\HomeTask1\bin\Debug\HomeTask1.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\HW_Serialization\HomeTask1\bin\Debug\HomeTask1.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\HW_Serialization\HomeTask1\bin\Debug\HomeTask1.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\HW_Serialization\HomeTask1\obj\Debug\HomeTask1.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\HW_Serialization\HomeTask1\obj\Debug\HomeTask1.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\HW_Serialization\HomeTask1\obj\Debug\HomeTask1.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\HW_Serialization\HomeTask1\obj\Debug\HomeTask1.pdb

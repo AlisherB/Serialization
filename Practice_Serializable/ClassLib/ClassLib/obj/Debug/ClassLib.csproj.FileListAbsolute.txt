@@ -1,0 +1,9 @@
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\ClassLib\bin\Debug\ClassLib.dll
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\ClassLib\bin\Debug\ClassLib.pdb
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\ClassLib\obj\Debug\ClassLib.dll
+Z:\C#\08.09.17 Serializable\Practice_Serializable\ClassLib\ClassLib\obj\Debug\ClassLib.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\ClassLib\ClassLib\obj\Debug\ClassLib.pdb

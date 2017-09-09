@@ -1,0 +1,6 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\Serialization\SoapSerialization\bin\Debug\SoapSerialization.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\Serialization\SoapSerialization\bin\Debug\SoapSerialization.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\Serialization\SoapSerialization\bin\Debug\SoapSerialization.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\Serialization\SoapSerialization\obj\Debug\SoapSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\Serialization\SoapSerialization\obj\Debug\SoapSerialization.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\08.09.17 Serializable\08.09.17 Serializable\Practice_Serializable\Serialization\SoapSerialization\obj\Debug\SoapSerialization.pdb
